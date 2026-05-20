@@ -1,5 +1,5 @@
 # MARTUGA PE 🌊🐢
-![Preview do projeto](preview.PNG)
+![Preview do projeto](img/preview.png)
 Protótipo institucional desenvolvido para o projeto MARTUGA PE, iniciativa voltada à preservação das tartarugas marinhas e educação ambiental em Pernambuco.
 
 ## ✨ Objetivo
